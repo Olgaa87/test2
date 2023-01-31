@@ -7,6 +7,6 @@ public class Loader {
 
         //Код писать здесь
 
-        System.out.println("Value i = " + i);
+        System.out.println("Value i = " + i+ i);
     }
 }
